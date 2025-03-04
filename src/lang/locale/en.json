@@ -1,0 +1,36 @@
+{
+  "AlphaHomeHouse": "AlphaHome",
+  "Chinese": "Chinese",
+  "English": "English",
+  "HomeTitle": "Novai platform token",
+  "HomeTitle1": "faucet",
+  "HomeSubheading": "Provide funding for your initial transactions",
+  "Address": "Wallet Address:",
+  "HomeText": "Drip Tokens",
+  "Text1": "1. The amount of $Novai claimed each time is enough for up to two transactions",
+  "Text2": "2. Each address can only claim once",
+  "Text3": "3. Each IP address can only claim once within 24 hours",
+  "Text4": "4. The number of addresses receiving rewards per hour cannot exceed 10,000",
+  "TipsTitle": "Request Submitted",
+  "placeholder":"Enter Wallet Address",
+  "TipsCenter": "You will receive the tokens in approximately 2 minutes",
+  "EorrText": "Please enter a valid address. ex: 0x...",
+  "EorrText1002": "Each address can only claim once",
+  "EorrText1003": "Each IP address can only claim once within 24 hours",
+  "EorrText1004": "The number of addresses receiving rewards per hour cannot exceed 10,000",
+  "EorrText1005": "Google verification failed.",
+  "footer":{
+    "footer_subtitle":"A Bitcoin Layer 2 integrating Al and gaming",
+    "About_Us": "About Us",
+    "Privacy_Policy": "Privacy Policy",
+    "Terms_of_Service": "Terms of Service",
+    "Services_&_Support": "Services & Support",
+    "Medium": "Medium",
+    "Contact_Us": "Contact Us",
+    "Resources": "Resources",
+    "Whitepaper": "Novaichain Whitepaper",
+    "Introduce": "Novaichain Introduce"
+
+
+  }
+}

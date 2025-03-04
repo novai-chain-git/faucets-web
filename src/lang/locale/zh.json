@@ -1,0 +1,35 @@
+{
+  "AlphaHomeHouse": "AlphaHome",
+  "Chinese": "中文",
+  "English": "英文",
+  "HomeTitle": "Novai 平台币",
+  "HomeTitle1": "水龙头",
+  "HomeSubheading": "为您的初始交易提供资金",
+  "Address": "钱包地址:",
+  "HomeText": "滴注代币",
+  "Text1": "1. 每次申领$Novai的数量足够进行最多两次交易活动",
+  "Text2": "2. 每个地址只能申领一次",
+  "Text3": "3. 每个IP地址在24小时内只能申领一次",
+  "Text4": "4. 每小时接收奖励的地址数量不得超过1万个",
+  "TipsTitle": "请求已提交",
+
+  "placeholder":"输入钱包地址",
+  "TipsCenter": "你将在大约2分钟内收到代币",
+  "EorrText": "请输入有效的地址。例如：0x...",
+  "EorrText1002": "每个地址只能申领一次",
+  "EorrText1003": "每个IP地址在24小时内只能申领一次",
+  "EorrText1004": "每小时接收奖励的地址数量不得超过1万个",
+  "EorrText1005": "谷歌验证失败",
+  "footer":{
+    "footer_subtitle":"融合人工智能和游戏的比特币2层",
+    "About_Us": "关于我们",
+    "Privacy_Policy": "隐私协议",
+    "Terms_of_Service": "服务条款",
+    "Services_&_Support": "服务与支持",
+    "Medium": "Medium",
+    "Contact_Us": "联系我们",
+    "Resources": "资源",
+    "Whitepaper": "Novaichain 白皮书",
+    "Introduce": "Novaichain 介绍"
+  }
+}
